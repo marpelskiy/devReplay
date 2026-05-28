@@ -29,7 +29,7 @@
 
 ```bash
 cd ~
-git clone https://github.com/твое-имя/dev-replay.git
+git https://github.com/marpelskiy/devReplay
 cd dev-replay
 
 ```
